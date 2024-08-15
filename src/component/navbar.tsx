@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="gap-6 text-white text-lg hidden sm:flex ">
         <Link href={"#about"}>About</Link>
         <Link href={"#service"}>Services</Link>
-        <Link href={"#"}>Contact Me</Link>
+        <Link href={"#contact"}>Contact Me</Link>
       </div>
     </div>
   );
